@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 20 19:15:04 2024
-
-@author: KevinRosero
-"""
-
 ##En algun lado va a aparecer la palabra 'clasificación'
 
 ## Importar las librearías
