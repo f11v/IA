@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 20 19:15:04 2024
-
-@author: KevinRosero
-
 Modelos de clasificación: Bosques aleatorios
 cOMBINA LA POTENCIA DE DIFERENTES ALGORITMOS DE MACHINE LEARNING
 clasificacion de votos por mayoria
